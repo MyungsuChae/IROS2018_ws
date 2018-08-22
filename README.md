@@ -2,7 +2,7 @@
 End-to-end multimodal emotion and gender recognition with dynamic weights of joint loss.
 
 # Status (23th, Aug. 2018)
-Submitted to IROS 2018 Workshop on Crossmodal Learning for Intelligent Robotics.
+Submitted to IROS 2018 Workshop on Crossmodal Learning for Intelligent Robotics. <br />
 Submitted to arXiv (cs.LG, stat.ML).
 
 # Collaborators
