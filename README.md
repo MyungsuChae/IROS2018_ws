@@ -5,8 +5,8 @@ End-to-end multimodal emotion and gender recognition with dynamic weights of joi
 Submitted to arXiv (cs.LG, stat.ML). <br />
 Submitted to IROS 2018 Workshop on Crossmodal Learning for Intelligent Robotics.
 
-# Collaborators
-Tae-Ho Kim, Young Hoon Shin, Jun-Woo Kim, Soo-Young Lee (advisor) in KAIST Institute for Artificial Intelligence.
+# Authors
+Myungsu Chae, Tae-Ho Kim, Young Hoon Shin, Jun-Woo Kim, Soo-Young Lee (advisor) in KAIST Institute for Artificial Intelligence.
 
 # Dataset
 Interactive Emotional Dyadic Motion Capture database (IEMOCAP) from SAIL Lab in USC.
