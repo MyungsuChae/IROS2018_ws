@@ -1,0 +1,7 @@
+numpy==1.15.0
+scikit-image==0.14.0
+scipy==1.1.0
+SoundFile==0.9.0.post1
+torch==0.4.0
+torchvision==0.2.0
+tqdm==4.19.5
