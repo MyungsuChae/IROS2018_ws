@@ -34,5 +34,5 @@ CUDA_VISIBLE_DEVIES=0 python train.py [--modal MODAL] [--loss LOSS] [--stl_dim S
 * `MODAL` is one of `audio`, `video`, or `multi`.
 * `LOSS` is one of `Static` or `Joint`.
 * In case `LOSS` is `Static`, you should specify `STL_DIM` which controls the weights between tasks. It sets to `-1` for balancing uniformly by default. `0` and `1` are emotion classification and gender classification, respectively.
-* By default, model saved to `./result
+* By default, model saved to `./result`
 
