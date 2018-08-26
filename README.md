@@ -1,6 +1,6 @@
 The code of End-to-end multimodal emotion and gender recognition with dynamic weights of joint loss. 
 ## About
-Submitted to arXiv (cs.LG, stat.ML). <br/>
+Submitted to arXiv (cs.CV, cs.LG, cs.SD, eecs.AS, stat.ML). <br/>
 Submitted to IROS 2018 Workshop on Crossmodal Learning for Intelligent Robotics.
 
 ### Authors
