@@ -1,7 +1,7 @@
 The code of End-to-end multimodal emotion and gender recognition with dynamic weights of joint loss. 
 ## About
 On arXiv (https://arxiv.org/abs/1809.00758) <br/>
-Submitted to IROS 2018 Workshop on Crossmodal Learning for Intelligent Robotics.
+Will be appeared in IROS 2018 Workshop on Crossmodal Learning for Intelligent Robotics.
 
 ### Authors
 Myungsu Chae, Tae-Ho Kim, Young Hoon Shin, Jun-Woo Kim, Soo-Young Lee (advisor) in KAIST Institute for Artificial Intelligence.
